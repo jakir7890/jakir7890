@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Syed Jakir
 #### Android App Developer
-
+![Profile views](https://gpvc.arturio.dev/jakir7890)
 
 Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested to work on various sectors but love to work in mobile application development.Photography & traveling are my favorite things to do.
 
@@ -30,4 +30,4 @@ Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jakir7890)  
 
-![Profile views](https://gpvc.arturio.dev/jakir7890)  
+  
