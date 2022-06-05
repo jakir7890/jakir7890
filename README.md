@@ -4,7 +4,7 @@
 
 Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested to work on various sectors but love to work in mobile application development.Photography & traveling are my favorite things to do.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## Skills: C / Java / JavaScript/ Flutter/ Dart / Firebase / Python / HTML / CSS
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Flutter & Dart 
