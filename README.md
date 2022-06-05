@@ -15,6 +15,7 @@ Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested
 - 🌱 I’m currently learning Flutter & Dart 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Android App Development 
+- <h3 align="left">Connect with me:</h3>
 
 
 [<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/jakir7890)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayed-ashikul-3853401ab//)  [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100081312652534)  [<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='40'>](//www.youtube.com/channel/UCAWLyHGW9AQmcelSStJpxxg)  
