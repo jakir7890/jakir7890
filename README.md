@@ -1,7 +1,7 @@
 ![Android App Developer](https://pbs.twimg.com/profile_banners/1502685672603152385/1654408744/1080x360)
 
 ### Hi there 👋, my name is Syed Jakir
-#### Android App Developer
+#### Flutter Developer
 ![Profile views](https://gpvc.arturio.dev/jakir7890)
 
 Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested to work on various sectors but love to work in mobile application development.Photography & traveling are my favorite things to do.
